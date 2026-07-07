@@ -8,7 +8,7 @@ Built using **Natural Language Processing (NLP)**, **Scikit-learn**, and **Strea
 
 ## 🌐 Live Demo
 
-🚀 Try the app here:  
+🚀 Try the app here:
 [Sentiment Analysis Web App](https://sentiment-analysis-jlyvravbfgnfhf4mdep6i6.streamlit.app/)
 
 ---
