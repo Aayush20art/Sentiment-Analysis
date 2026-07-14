@@ -1,5 +1,4 @@
 # 🎭 VibeCheck AI – Emotion Sentiment Analysis
-
 A **Machine Learning powered Emotion Detection Web App** that analyzes text and predicts the human emotion behind it in real time.
 
 Built using **Natural Language Processing (NLP)**, **Scikit-learn**, and **Streamlit**, this project demonstrates a complete ML pipeline from text preprocessing to model prediction and visualization
